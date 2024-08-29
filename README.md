@@ -18,27 +18,6 @@
 
 **Image Caption Generator - Animal Dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image%20caption%20Generator/Image_Caption_Generator_Animal_Dataset.ipynb)
 
-# Computer Vision (CV)
-
-
-1. **TensorFlow: Dolphins vs whale image classification using TensorFlow** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Dolphin_vs_whale_classification.ipynb)
-2. **TensorFlow: Lake water and river water image classification using TensorFlow** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Lake_water_and_river_water_image_classification_with_TensorFlow.ipynb)
-3. **TensorFlow: Animal image using Transfer Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Animal_image_using_Transfer_learning.ipynb)
-5. **TensorFlow: Rock life detection image Classification Transfer learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Rock_life_detection_Classification_Transfer_learning.ipynb)
-6. **TensorFlow: Multiclass image classification with famous-iconic-women dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Multiclass_image_classification_with_famous_iconic_women.ipynb)
-7. **TensorFlow: Image classification with Deep Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_wit_DL.ipynb)
-8. **TensorFlow: Image classification with Machine Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image%20Classification%20with%20Machine%20Learning.ipynb)
-9. **TensorFlow: Multiclass image classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Multiclass_image_classification_with_Deep_Learning.ipynb)
-10. **TensorFlow: Multiclass 70-dogs image classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Multiclass_image_Classification_with_Deep_Learning_and_70_dogs_.ipynb)
-11. **PyTorch: E waste image classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/e_waste_image_dataset_ViT.ipynb)
-12. **PyTorch: Image Classification using PyTorch with applescablds**  [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_model_using_PyTorch_with_applescablds.ipynb)
-13. **PyTorch: Lightning for is she's gorgeous classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Lightning_for_is_she's_gorgeous_classification_.ipynb)
-14. **PyTorch: Image Classification model using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_model_using_PyTorch.ipynb)
-15. **PyTorch: Image Classification using CNN in PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_using_CNN_in_PyTorch.ipynb)
-16. **PyTorch: Paddy petts image classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_using_PyTorch_with_paddy_pests_dataset.ipynb)
-17. **PyTorch: Flowers dataset image classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_using_PyTorch_with_Flowers_dataset.ipynb)
-18. **PyTorch: Muffin and Chihuahua image classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Muffin_vs_Chihuahua_image_classification_using_PyTorch.ipynb)
-
 
 
 
@@ -133,48 +112,17 @@
 
 
 
-# Deep Learning with PyTorch
 
-1.  **PyTorch: USA real estate dataset with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/USA_real_estate_dataset_with_PyTorch.ipynb)  
-2.  **PyTorch: Amsterdam House Price Prediction with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Amsterdam_House_Price_Prediction_with_PyTorch.ipynb)
-3.  **PyTorch: Guadalajara rent prices prediction Tensorflow/PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Guadalajara_rent_prices_prediction_Tensorflow_PyTorch.ipynb)
-4.  **PyTorch: Nigerian House prices Tensorflow/PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Nigerian_House_prices_prediction_Tensorflow_PyTorch.ipynb)
-5. **PyTorch: Hermet data with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Hemnet_data_with_PyTorch.ipynb)
 
 
 
 
  
- # Deep Learning with TensorFlow
- 
- Deep learning is a part of Machine learning or rather to say deep learning uses a particular algorithm of machine learning called “Neural Network”. 
-
-1.  **TensorFlow: House price prediction using regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/House%20price%20prediction%20using%20regression%20.ipynb)
-2.  **TensorFlow: House price with Tensorflow and Keras** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/House%20price%20with%20Tensorflow%20and%20Keras.ipynb)
-3.  **TensorFlow: Linear Regression in Tensorflow with seismic-bumps dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow)
-4.  **TensorFlow: Keras Neural Network for Linear Regression with Beauty Data** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/commit/3929085d0a8787635b4b2f79eb73a3a27f4b3e98)
-5.  **TensorFlow: Keras Neural Network for logistic regression with satimage_csv data** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Keras%20Neural%20Network%20for%20logistic%20regression%20with%20satimage_csv%20data.ipynb)
-6.  **TensorFlow: Multilayer perceptron with abalone dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Multilayer%20perceptron%20with%20abalone%20dataset.ipynb)
-7.  **TensorFlow: Neural Network in Keras with page-blocks dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20page-blocks%20dataset.ipynb)
-8.  **TensorFlow: Neural Network in Keras with phoneme dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20phoneme%20datset.ipynb)
-9. **TensorFlow: Tensorflow with Regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20with%20Regression.ipynb)
-10. **TensorFlow: Tensorflow with Classification and Regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20with%20Classification%20and%20Regression.ipynb)
-11. **TensorFlow: Tensorflow and Keras with classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20and%20Keras%20with%20classification.ipynb)
 
 
 
 
-# See also Time Series Forecasting with python
 
-
-
-
-1. **Time Series Forecasting: Alchohol time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Alchohol%20time%20series%20forecasting.ipynb)
-2.  **Time Series Forecasting: Hause time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Hause%20time%20series%20forecasting.ipynb)
-3.  **Time Series Forecasting: Time Series Prediction with LSTM** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Time%20Series%20Prediction%20with%20LSTM%20.ipynb)
-4.  **Time Series Forecasting: Time series Prediction with LSTM RNN in Python with Keras** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Time%20series%20Prediction%20with%20LSTM%20RNN%20in%20Python%20with%20Keras.ipynb)
-5.  **Time Series Forecasting: ARIMA model for Time Series Forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/ARIMA%20model%20for%20Time%20Series%20Forecasting.ipynb)
-6.  **Time Series Forecasting: ARIMA and LSTM models for Time Series Forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/ARIMA%20and%20LSTM%20models%20for%20Time%20Series%20Forecasting.ipynb)
 
 
 
